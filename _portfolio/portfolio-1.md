@@ -1,6 +1,8 @@
+ 
+
 ---
 title: "San Francisco Car Break-In"
-excerpt: "Interactive web application to track car break-ins in San Francisco <br/><img src='/images/sf_car.png' height = '400 width='400'>"
+excerpt: "Interactive web application to track car break-ins in San Francisco 1 <br/><img src='/images/sf_car.png' height = '400' width='400'>"
 collection: Projects
 ---
 

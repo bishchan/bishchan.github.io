@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there !! <br>
+Hello there !!! <br/>
+Welcome to my page. Little about me, I am a Army Special Force turned Data Science practitioner. <br>
 
 

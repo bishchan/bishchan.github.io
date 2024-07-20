@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "About Me"
+title: "Projects"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /projects/
+  - /projects.html
 ---
 
 Hi there!! Welcome to my Page :) 

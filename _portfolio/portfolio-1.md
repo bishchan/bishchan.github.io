@@ -1,6 +1,6 @@
 ---
 title: "San Francisco Car Break-In"
-excerpt: "Track car break-ins in SF 1<br/><img src='/images/sf_car.png'>"
+excerpt: "Track car break-ins in SF 1<br/><img src='/images/sf_car.png' width='300'>"
 collection: portfolio
 ---
 

@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+- Hi there!! Welcome to my Page :)
+
+
+# Projects
+
 ## [San Francisco Car Break-In](https://eja1v2-bish.shinyapps.io/SFCarBreakIns/)
 
 <p align="right">

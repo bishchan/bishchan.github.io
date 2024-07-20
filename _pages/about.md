@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 Hello there !!! <br/>
-Welcome to my page. Little about me, I am a Army Special Force turned Data Science practitioner. <br>
+Welcome to my page. Please check out the projects section to learn about some of the work I have done!!
 
 

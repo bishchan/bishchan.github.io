@@ -21,7 +21,7 @@ repository               : "bishchan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic.png"
   name             : "Bish Sherhcan"
   pronouns         : # example: "she/her"  
   bio              : "Data Science @ UC Berkeley | Special Forces Veteren | Security Clearance"

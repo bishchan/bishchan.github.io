@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-- Hi there!! Welcome to my Page :)
+Hi there!! Welcome to my Page :) 
 
 
 # Projects

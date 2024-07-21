@@ -11,7 +11,7 @@ redirect_from:
 
 
 #### SKILLS
-Languages, tools, libraries: Python, R, Advance SQL, Tableau, Java, C++, Pytorch, MongoDB, NumPy, Pandas, Matplotlib, Seaborne, Git, Tidyverse, Tableau, RShiny, PySpark, TensorFlow <br/> <b/>
+Languages, tools, libraries: Python, R, Advance SQL, Tableau, Java, C++, Pytorch, MongoDB, NumPy, Pandas, Matplotlib, Seaborne, Git, Tidyverse, Tableau, RShiny, PySpark, TensorFlow <br/> <br/>
 Technical: Data Analysis, Data Wrangling, Data Visualization, Statistics, Hypothesis Testing, A/B Testing, Machine Learning, Parametric and Non-parametric Testing, Time Series Analysis, Data Pipelines
 <br/>
 

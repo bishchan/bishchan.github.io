@@ -20,7 +20,7 @@ Technical: Data Analysis, Data Wrangling, Data Visualization, Statistics, Hypoth
 Data Scientist (Sep 2023 - Present) <br/>
 Tecolote Research | Santa Barbara, CA <br/>
 <br/>
-Special Forces Engineer | Human Intelligence Analyst (Jan 2010 - June 2020) <br/>
+Special Forces Engineer | Analyst (Jan 2010 - June 2020) <br/>
 1st Special Forces Group (Airborne), US Army | JBLM, WA 
 <br/>
 

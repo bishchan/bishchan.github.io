@@ -25,8 +25,8 @@ author:
   name             : "Bish Sherchan"
   pronouns         : # example: "she/her"  
   bio              : "Special Forces Veteren | Data Science @ UC Berkeley | Active Security Clearance"
-  location         : "Santa Barbara, California"
-  employer         : "Tecolote Reseach"
+  location         : # "Santa Barbara, California"
+  employer         : # "Tecolote Reseach"
   uri              : # URL
   email            : "bishwassherchan@gmail.com" 
 

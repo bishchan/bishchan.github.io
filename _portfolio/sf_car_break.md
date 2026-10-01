@@ -10,7 +10,7 @@ Discover more and stay safe!
 
 ---
 title: "NYC Taxi Data ELT Pipeline"
-excerpt: "Interactive web application to track car break-ins in San Francisco <br/><img src='/images/sf_car.png'  width='400'>"
+excerpt: "end-to-end ELT data pipeline using New York City taxi trip data"
 collection: Project
 ---
 
